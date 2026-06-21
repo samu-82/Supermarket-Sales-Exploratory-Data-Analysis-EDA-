@@ -5,4 +5,5 @@
 *DOMAIN:*DATA SCIENCE
 DURATION :4 WEEKS  
 MENTOR**:NEELA SANTHOSH **
+
 An Exploratory Data Analysis (EDA) project using Python, Pandas, Matplotlib, and Seaborn to analyze supermarket sales data. This project explores sales trends, customer behavior, payment methods, product performance, branch-wise and city-wise sales, and correlations through data visualization.
